@@ -1,0 +1,31 @@
+/*ヘッダーの背景色指定*/
+.header {
+    background-color: #ffcccc;
+}
+
+#main {
+    background-color: #ccffcc;
+}
+
+#menu {
+    background-color: #ccccff;
+}
+
+.footer {
+    background-color: #ffccff;
+}
+
+/*レイアウト*/
+
+#wrapper {
+    display: flex;
+}
+
+#main {
+    width: 700px;
+}
+
+#menu {
+    width: 300px;
+}
+
